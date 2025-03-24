@@ -1,5 +1,0 @@
-depot_downloader_binary = C:\temp\DepotDownloader.exe
-username = YourSteamAccountName (Not your Steam username)
-app_id = 480
-depot = 481
-depot_output = C:\depot_output\
