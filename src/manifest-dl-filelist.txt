@@ -1,0 +1,1 @@
+regex:^(?i)(?!.*\.(vpk|gcf|pak|bsp|wad|mdl|spr|vmt|vtf|mp4|avi|mkv|webm|mp3|wav|ogg|flac|bmp|jpeg|jpg|png|gif|tga)).*$

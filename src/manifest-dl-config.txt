@@ -1,0 +1,8 @@
+path_to_bin = C:\temp\DepotDownloader.exe
+username = YourSteamAccountName
+app = 480
+depot = 481
+output = C:\depot_output\
+manifests = manifests.txt
+datetime_as_prefix = on
+#filelist = manifest-dl-filelist.txt
