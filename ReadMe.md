@@ -33,3 +33,19 @@ This script downloads all versions release for a specific AppID on Steam.
 - `datetime_as_prefix` - if set to `on`, add datetime as prefix to manifest ID.
 - `filelist` - path to the file that contains a list of files to filter (regex). 
 The default filelist provided with the repository allows you to not download files with a certain extension without case sensitivity.
+
+
+# Bonus Script: Date_Modifier.py
+
+This script modifies the date of root folders to reflect the manifest date.
+
+# Setup
+1. Install [Python 3.x](https://www.python.org/downloads/)
+2. Install pywin32 `pip install pywin32`
+3. Run `python date_modifier.py <path_to_root_folder> <manifest_data.txt>`
+
+This script uses the same manifest format as the main script, so you can use the same `manifests.txt` file.
+
+Example:
+
+![https://github.com/wolfswolke/Steam_Manifest_Downloader/blob/master/images/manifest_dates_example.png](./images/manifest_dates_example.png)
